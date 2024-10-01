@@ -1,3 +1,5 @@
+// Author: Steve Sharpe
+
 import java.util.Scanner;
 
 public class MovieTheatre {
